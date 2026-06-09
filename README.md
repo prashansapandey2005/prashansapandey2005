@@ -3,7 +3,7 @@
 
 ---
 
-Hey, I'm Prashansa Pandey, a passionate Computer Science student currently in my second year of pursuing a Bachelor's degree. 
+Hey, I'm Prashansa Pandey, a passionate Computer Science student currently in my pre-final year of pursuing a Bachelor's degree. 
 I have a keen interest in the fields of Artificial Intelligence (AI), Machine Learning (ML), and Web Development. 
 I am eager to contribute to innovative projects in these fields.
 
